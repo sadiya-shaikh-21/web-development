@@ -1,11 +1,11 @@
 # web-development
-
+web pages by using basic html css.
 Home1:
-
+Frame set:
 ![](/home%201/output.PNG)
 
 Home 2:
-
+Table:
 ![](/home%202/table_img.PNG)
 
 Practicle/ass1:
